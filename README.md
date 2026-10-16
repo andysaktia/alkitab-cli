@@ -4,6 +4,8 @@ Baca **Alkitab Yang Terbuka (AYT)** langsung dari terminal. Cepat, **offline** (
 
 > Proyek **tidak resmi**: tidak berafiliasi dengan Yayasan Lembaga SABDA (YLSA). Lihat [Lisensi](#lisensi-dan-atribusi).
 
+<p align="center"> <img src="docs/screenshot.png" alt="Tampilan alkitab di terminal: Yohanes 3:16 dan ayat hari ini" width="720"> </p>
+
 ## Pasang
 
 Kebutuhan: **Python 3.9 atau lebih baru** (cek dengan `python --version`). Internet hanya diperlukan saat memasang; setelah itu `alkitab` berjalan sepenuhnya offline.
